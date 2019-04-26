@@ -47,7 +47,7 @@ Features extracted by LibROSA are reduced in dimension using an auto-encoder. Fe
 Music track, represented as spectrogram, classified into 8 distinct genres using CNN.  
 ## GAN Architectures
 ### Various GANs have been tested to see if they have the capacity to represent and generate complex unstructured images
-[![Style Gan on Album Covers](https://img.youtube.com/vi/8a0zIEanp6A&feature=youtu.be/.jpg)](https://www.youtube.com/watch?v=8a0zIEanp6A&feature=youtu.be)
+[![Style Gan on Album Covers](https://img.youtube.com/vi/8a0zIEanp6A&feature=youtu.be/.jpg)](https://www.youtube.com/watch?v=8a0zIEanp6A&feature=youtu.be)  
 WGAN-GP (64x64)  
 ![12](https://user-images.githubusercontent.com/42685217/56785149-b1ffaa80-67a8-11e9-9315-8d212ab60c37.png)
 DCGAN (64x64) 
