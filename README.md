@@ -52,7 +52,7 @@ Samples of album covers from two distinct groups of genre show similarities of f
 </p>
 Raw mp3 files encoded in lower dimension as a compact representation of the music track. Different genres are shown in different colors.  
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/42685217/56784762-09048000-67a7-11e9-9972-b9be9cbbe5eb.png" width="128"> <img src="https://user-images.githubusercontent.com/42685217/56784910-cabb9080-67a7-11e9-8c10-6d85f53af355.png" width="640">
+  <img src="https://user-images.githubusercontent.com/42685217/56784762-09048000-67a7-11e9-9972-b9be9cbbe5eb.png" width="256"> <img src="https://user-images.githubusercontent.com/42685217/56784910-cabb9080-67a7-11e9-8c10-6d85f53af355.png" width="512">
 </p>
 Features extracted by LibROSA are reduced in dimension using an auto-encoder. Features can be split into 4 clusters (different color). 
 
@@ -63,12 +63,15 @@ Music track, represented as spectrogram, classified into 8 distinct genres using
 
 ## GAN Architectures
 ### Various GANs have been tested to see if they have the capacity to represent and generate complex unstructured images
-[![Style Gan on Album Covers](https://img.youtube.com/vi/8a0zIEanp6A&feature=youtu.be/.jpg)](https://www.youtube.com/watch?v=8a0zIEanp6A&feature=youtu.be)  
 WGAN-GP (64x64)  
-![12](https://user-images.githubusercontent.com/42685217/56785149-b1ffaa80-67a8-11e9-9315-8d212ab60c37.png)
+<img src="https://user-images.githubusercontent.com/42685217/56785149-b1ffaa80-67a8-11e9-9315-8d212ab60c37.png" width="512">
+  
 DCGAN (64x64) 
-![13](https://user-images.githubusercontent.com/42685217/56785151-b330d780-67a8-11e9-8da6-a052b5adb428.png)
+<img src="https://user-images.githubusercontent.com/42685217/56785151-b330d780-67a8-11e9-8da6-a052b5adb428.png" width="512">
 WGAN-G adn DCGAN produce abstract shapes  
+
+[![Style Gan on Album Covers](https://img.youtube.com/vi/8a0zIEanp6A&feature=youtu.be/.jpg)](https://www.youtube.com/watch?v=8a0zIEanp6A&feature=youtu.be)  
+
 Style GAN (256x256) 
 ![14](https://user-images.githubusercontent.com/42685217/56785159-b62bc800-67a8-11e9-9cfd-8c40f7db8623.png)
 The most realistic looking compared to all other architectures, produces file details (faces, text)  
