@@ -48,7 +48,7 @@ University of Southern California, Los Angeles, CA, USA
 Samples of album covers from two distinct groups of genre show similarities of features and styles within each genre (different colors). Death metal (dark blue) and jazz (red) music are undeniably distinct, but album covers are not.  
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/42685217/56784691-bb881300-67a6-11e9-988a-f71bc4bf0efc.png" width="128"> <img src="https://user-images.githubusercontent.com/42685217/56784693-bd51d680-67a6-11e9-92cc-0e90c2e42531.png" width="512">
+  <img src="https://user-images.githubusercontent.com/42685217/56784691-bb881300-67a6-11e9-988a-f71bc4bf0efc.png" width="128"> <img src="https://user-images.githubusercontent.com/42685217/56784693-bd51d680-67a6-11e9-92cc-0e90c2e42531.png" width="768">
 </p>
 Raw mp3 files encoded in lower dimension as a compact representation of the music track. Different genres are shown in different colors.  
 ![08](https://user-images.githubusercontent.com/42685217/56784762-09048000-67a7-11e9-9972-b9be9cbbe5eb.png)
