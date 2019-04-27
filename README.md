@@ -69,19 +69,21 @@ Music track, represented as spectrogram, classified into 8 distinct genres using
 </p>
 <p align="center">
   DCGAN (64x64)<br>
-  <img src="https://user-images.githubusercontent.com/42685217/56785151-b330d780-67a8-11e9-8da6-a052b5adb428.png" width="512">
+  <img src="https://user-images.githubusercontent.com/42685217/56785151-b330d780-67a8-11e9-8da6-a052b5adb428.png" width="512"><br>
   WGAN-G adn DCGAN produce abstract shapes  
 </p>
 
-[![Style Gan on Album Covers](https://img.youtube.com/vi/8a0zIEanp6A&feature=youtu.be/.jpg)](https://www.youtube.com/watch?v=8a0zIEanp6A&feature=youtu.be)  
-
-Style GAN (256x256) 
-![14](https://user-images.githubusercontent.com/42685217/56785159-b62bc800-67a8-11e9-9cfd-8c40f7db8623.png)
-The most realistic looking compared to all other architectures, produces file details (faces, text)  
-
-Cover albums stored by proximity according to t-SNE.
-![15](https://user-images.githubusercontent.com/42685217/56785163-b9bf4f00-67a8-11e9-9a21-4d72ea13018b.png)
-Album covers are arranged according to RGB colors and weakly by structures and not by the genre they belong to.  
+<p align="center">
+  [![Style Gan on Album Covers](https://img.youtube.com/vi/8a0zIEanp6A&feature=youtu.be/.jpg)](https://www.youtube.com/watch?v=8a0zIEanp6A&feature=youtu.be)<br>
+  Style GAN (256x256) <br>
+  <img src="https://user-images.githubusercontent.com/42685217/56785159-b62bc800-67a8-11e9-9cfd-8c40f7db8623.png" width="1024"><br>
+  The most realistic looking compared to all other architectures, produces file details (faces, text)  
+</p>
+<p align="center">
+  Cover albums stored by proximity according to t-SNE.<br>
+  <img src="https://user-images.githubusercontent.com/42685217/56785163-b9bf4f00-67a8-11e9-9a21-4d72ea13018b.png" width="1024"><br>
+  Album covers are arranged according to RGB colors and weakly by structures and not by the genre they belong to.
+</p>
 
 ### Conditional GAN
 We modified WGAN and Style GAN to take condition (i.e. music features) as input.
