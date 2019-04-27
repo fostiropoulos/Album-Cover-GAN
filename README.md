@@ -15,6 +15,8 @@ University of Southern California, Los Angeles, CA, USA
 - Learn the relationship between the songs and the album covers as the visual  
 - Generate album covers conditioned to a music track  
 
+![“TITLE”](https://user-images.githubusercontent.com/42685217/56783671-b96f8580-67a1-11e9-9ded-6a0b57aa3a73.png | width=100)  
+
 <img src="https://user-images.githubusercontent.com/42685217/56783671-b96f8580-67a1-11e9-9ded-6a0b57aa3a73.png" title="My cat, Robert Downey Jr." width="1024">
 
 Samples of cover albums from two distinct groups genre show similarities of features and styles within each genre. Death metal music and jazz music are undeniably distinct.
