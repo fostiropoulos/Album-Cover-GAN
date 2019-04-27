@@ -14,9 +14,9 @@ University of Southern California, Los Angeles, CA, USA
 ### Goals
 - Learn the relationship between the songs and the album covers as the visual  
 - Generate album covers conditioned to a music track  
-<div align="center">
-<img src="https://user-images.githubusercontent.com/42685217/56783671-b96f8580-67a1-11e9-9ded-6a0b57aa3a73.png" width="1024">
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/42685217/56783671-b96f8580-67a1-11e9-9ded-6a0b57aa3a73.png" width="1024">
+</p>
 Samples of cover albums from two distinct groups genre show similarities of features and styles within each genre. Death metal music and jazz music are undeniably distinct.  
 
 ### Problem Formulation
@@ -36,9 +36,12 @@ Samples of cover albums from two distinct groups genre show similarities of feat
 1. Reduce the dimension of music spectral and rhythm features using PCA  
 2. Using RNN as a feature extraction method to account for temporal variation in music tracks  
 3. Reduce the dimension of music spectral and rhythm features using auto-encoder  
-4. Converting music tracks to spectrogram and using CNN as a feature extraction (CNN was trained to classify the music genre)   
-<img align="center" src="https://user-images.githubusercontent.com/42685217/56784466-7b746080-67a5-11e9-9e90-c54d5469ef15.png" width="512">
-music tracks  
+4. Converting music tracks to spectrogram and using CNN as a feature extraction (CNN was trained to classify the music genre)  
+<p align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/42685217/56784466-7b746080-67a5-11e9-9e90-c54d5469ef15.png" width="512">  
+  music tracks
+</p>
+
 <img align="center" src="https://user-images.githubusercontent.com/42685217/56784471-7ca58d80-67a5-11e9-9e38-c978bd28203c.png" width="512">
 album covers  
 
