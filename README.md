@@ -51,12 +51,16 @@ Samples of album covers from two distinct groups of genre show similarities of f
   <img src="https://user-images.githubusercontent.com/42685217/56784691-bb881300-67a6-11e9-988a-f71bc4bf0efc.png" width="128"> <img src="https://user-images.githubusercontent.com/42685217/56784693-bd51d680-67a6-11e9-92cc-0e90c2e42531.png" width="640">
 </p>
 Raw mp3 files encoded in lower dimension as a compact representation of the music track. Different genres are shown in different colors.  
-![08](https://user-images.githubusercontent.com/42685217/56784762-09048000-67a7-11e9-9972-b9be9cbbe5eb.png)
-![09](https://user-images.githubusercontent.com/42685217/56784910-cabb9080-67a7-11e9-8c10-6d85f53af355.png)
-Features extracted by LibROSA are reduced in dimension using an auto-encoder. Features can be split into 4 clusters (different color).  
-![10](https://user-images.githubusercontent.com/42685217/56784831-64367280-67a7-11e9-8c0b-76e29602767e.png)
-![11](https://user-images.githubusercontent.com/42685217/56784833-66003600-67a7-11e9-97b1-72521930f838.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/42685217/56784762-09048000-67a7-11e9-9972-b9be9cbbe5eb.png" width="128"> <img src="https://user-images.githubusercontent.com/42685217/56784910-cabb9080-67a7-11e9-8c10-6d85f53af355.png" width="640">
+</p>
+Features extracted by LibROSA are reduced in dimension using an auto-encoder. Features can be split into 4 clusters (different color). 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/42685217/56784831-64367280-67a7-11e9-8c0b-76e29602767e.png" width="512"> <img src="https://user-images.githubusercontent.com/42685217/56784833-66003600-67a7-11e9-97b1-72521930f838.png" width="512">
+</p>
 Music track, represented as spectrogram, classified into 8 distinct genres using CNN.  
+
 ## GAN Architectures
 ### Various GANs have been tested to see if they have the capacity to represent and generate complex unstructured images
 [![Style Gan on Album Covers](https://img.youtube.com/vi/8a0zIEanp6A&feature=youtu.be/.jpg)](https://www.youtube.com/watch?v=8a0zIEanp6A&feature=youtu.be)  
