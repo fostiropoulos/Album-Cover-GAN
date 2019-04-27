@@ -78,8 +78,8 @@ Music track, represented as spectrogram, classified into 8 distinct genres using
   <img src="https://user-images.githubusercontent.com/42685217/56785159-b62bc800-67a8-11e9-9cfd-8c40f7db8623.png" width="1024"><br>
   The most realistic looking compared to all other architectures, produces file details (faces, text)  
 </p>
-[![Style Gan on Album Covers](https://img.youtube.com/vi/8a0zIEanp6A&feature=youtu.be/.jpg)](https://www.youtube.com/watch?v=8a0zIEanp6A&feature=youtu.be)  
 
+[![Style Gan on Album Covers](https://img.youtube.com/vi/8a0zIEanp6A&feature=youtu.be/.jpg)](https://www.youtube.com/watch?v=8a0zIEanp6A&feature=youtu.be)
 
 <p align="center">
   Cover albums stored by proximity according to t-SNE.<br>
