@@ -36,9 +36,11 @@ Samples of cover albums from two distinct groups genre show similarities of feat
 2. Using RNN as a feature extraction method to account for temporal variation in music tracks  
 3. Reduce the dimension of music spectral and rhythm features using auto-encoder  
 4. Converting music tracks to spectrogram and using CNN as a feature extraction (CNN was trained to classify the music genre)   
-![music tracks](https://user-images.githubusercontent.com/42685217/56784466-7b746080-67a5-11e9-9e90-c54d5469ef15.png)
-![album covers](https://user-images.githubusercontent.com/42685217/56784471-7ca58d80-67a5-11e9-9e38-c978bd28203c.png)  
+<img src="https://user-images.githubusercontent.com/42685217/56784466-7b746080-67a5-11e9-9e90-c54d5469ef15.png" width="512">
+<img src="https://user-images.githubusercontent.com/42685217/56784471-7ca58d80-67a5-11e9-9e38-c978bd28203c.png" width="512">
+
 Samples of album covers from two distinct groups of genre show similarities of features and styles within each genre (different colors). Death metal (dark blue) and jazz (red) music are undeniably distinct, but album covers are not.  
+<img src="https://user-images.githubusercontent.com/42685217/56784170-179d6800-67a4-11e9-9048-efe36271e073.png" width="512">
 ![06](https://user-images.githubusercontent.com/42685217/56784691-bb881300-67a6-11e9-988a-f71bc4bf0efc.png)
 ![07](https://user-images.githubusercontent.com/42685217/56784693-bd51d680-67a6-11e9-92cc-0e90c2e42531.png)
 Raw mp3 files encoded in lower dimension as a compact representation of the music track. Different genres are shown in different colors.  
