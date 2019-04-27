@@ -13,8 +13,8 @@ University of Southern California, Los Angeles, CA, USA
 ## Introduction
 ### Goals
 - Learn the relationship between the songs and the album covers as the visual  
-- Generate album covers conditioned to a music track
-{% include image.html url="https://user-images.githubusercontent.com/42685217/56783671-b96f8580-67a1-11e9-9ded-6a0b57aa3a73.png" description="My cat, Robert Downey Jr." %}
+- Generate album covers conditioned to a music track  
+<img src=url="https://user-images.githubusercontent.com/42685217/56783671-b96f8580-67a1-11e9-9ded-6a0b57aa3a73.png" title="My cat, Robert Downey Jr." width="320">
 <!--- 
 ![01](https://user-images.githubusercontent.com/42685217/56783671-b96f8580-67a1-11e9-9ded-6a0b57aa3a73.png)  
  ---> 
