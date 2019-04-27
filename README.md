@@ -65,8 +65,9 @@ Album covers are arranged according to RGB colors and weakly by structures and n
 We modified WGAN and Style GAN to take condition (i.e. music features) as input.
 ![16](https://user-images.githubusercontent.com/42685217/56785338-98ab2e00-67a9-11e9-9d2f-84344b7a8508.png)
 Architecture of a conditional GAN that we adopt to introduce a conditioning vector of music track in reduced dimension
-![17](https://user-images.githubusercontent.com/42685217/56785340-9b0d8800-67a9-11e9-9d7b-bb2f37037ee7.png)
-Album covers are assigned 4 arbitrary genres. The conditional GAN is trained, and the generator is fed with the conditioning vector (genre) and random noise vector. The generated image is labeled and visualized in 3D with all album covers.  
+![18](https://user-images.githubusercontent.com/42685217/56844674-ecc91780-6868-11e9-86c5-71b356a2cb6b.png)
+To use the pre-trained unconditioned StyleGAN: find the correspondence between the music track latent space the unit variance Gaussian noise vector.  
+StyleGAN latent space interpolation
 
 
 ## Discussion
