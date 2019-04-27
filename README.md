@@ -63,12 +63,15 @@ Music track, represented as spectrogram, classified into 8 distinct genres using
 
 ## GAN Architectures
 ### Various GANs have been tested to see if they have the capacity to represent and generate complex unstructured images
-WGAN-GP (64x64)  
-<img src="https://user-images.githubusercontent.com/42685217/56785149-b1ffaa80-67a8-11e9-9315-8d212ab60c37.png" width="512">
-  
-DCGAN (64x64) 
-<img src="https://user-images.githubusercontent.com/42685217/56785151-b330d780-67a8-11e9-8da6-a052b5adb428.png" width="512">
-WGAN-G adn DCGAN produce abstract shapes  
+<p align="center">
+  WGAN-GP (64x64)<br>
+  <img src="https://user-images.githubusercontent.com/42685217/56785149-b1ffaa80-67a8-11e9-9315-8d212ab60c37.png" width="512">
+</p>
+<p align="center">
+  DCGAN (64x64)<br>
+  <img src="https://user-images.githubusercontent.com/42685217/56785151-b330d780-67a8-11e9-8da6-a052b5adb428.png" width="512">
+  WGAN-G adn DCGAN produce abstract shapes  
+</p>
 
 [![Style Gan on Album Covers](https://img.youtube.com/vi/8a0zIEanp6A&feature=youtu.be/.jpg)](https://www.youtube.com/watch?v=8a0zIEanp6A&feature=youtu.be)  
 
