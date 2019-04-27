@@ -38,7 +38,7 @@ Samples of cover albums from two distinct groups genre show similarities of feat
 3. Reduce the dimension of music spectral and rhythm features using auto-encoder  
 4. Converting music tracks to spectrogram and using CNN as a feature extraction (CNN was trained to classify the music genre)  
 <p align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/42685217/56784466-7b746080-67a5-11e9-9e90-c54d5469ef15.png" width="512">  
+  <img align="center" src="https://user-images.githubusercontent.com/42685217/56784466-7b746080-67a5-11e9-9e90-c54d5469ef15.png" width="512"> <br>
   music tracks
 </p>
 
